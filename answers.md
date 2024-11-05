@@ -24,6 +24,8 @@
 - Après les parantèse, on trouve les remarque de l'auteurs.
 ### Task 6
 
+- Initial commit: Le repos git m'a donné la première vertion du fichier.
+- Dernier commit: Le repos git m'a donné la dernière vertion du fichier.
 ## Gitgraph
 
 ### Task 7
